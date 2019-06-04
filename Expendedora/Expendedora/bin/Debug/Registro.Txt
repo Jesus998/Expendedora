@@ -1,0 +1,25 @@
+Id:2, Producto: Sprite, Precio: 13, Dinero: 15, Cambio: 2
+Id:4, Producto: Sprite, Precio: 13, Dinero: 30, Cambio: 5
+Id:5, Producto: Yogurt, Precio: 10, Dinero: 10, Cambio: 0
+Id:13, Producto: Sprite, Precio: 13, Dinero: 20, Cambio: 7
+Id:13, Producto: Sprite, Precio: 13, Dinero: 20, Cambio: 7
+Id:1, Producto: Sprite, Precio: 13, Dinero: 20, Cambio: 7
+Id:3, Producto: Yogurt, Precio: 10, Dinero: 30, Cambio: 20
+Id:5, Producto: Yogurt, Precio: 10, Dinero: 30, Cambio: 11
+Id:7, Producto: Yogurt, Precio: 10, Dinero: 40, Cambio: 24
+Id:8, Producto: Yogurt, Precio: 10, Dinero: 40, Cambio: 21
+Id:9, Producto: Yogurt, Precio: 10, Dinero: 40, Cambio: 15
+Id:2, Producto: Emperador, Precio: 19, Dinero: 40, Cambio: 21
+Id:3, Producto: Conchas, Precio: 16, Dinero: 30, Cambio: 14
+Id:4, Producto: Cafe frio, Precio: 25, Dinero: 30, Cambio: 5
+Id:1, Producto: Yogurt, Precio: 10, Dinero: 30, Cambio: 20
+Id:2, Producto: Emperador, Precio: 19, Dinero: 30, Cambio: 11
+Id:3, Producto: Sprite, Precio: 13, Dinero: 30, Cambio: 17
+Id:1, Producto: Yogurt, Precio: 10, Dinero: 30, Cambio: 20
+Id:2, Producto: Cafe frio, Precio: 25, Dinero: 30, Cambio: 5
+Id:3, Producto: Cafe frio, Precio: 25, Dinero: 30, Cambio: 5
+Id:4, Producto: Conchas, Precio: 16, Dinero: 40, Cambio: 24
+Id: 1, Producto: Cafe frio, Precio: 25, Dinero: 30, Cambio: 5
+Id: 2, Producto: Sprite, Precio: 13, Dinero: 27, Cambio: 14
+Id: 3, Producto: Sprite, Precio: 13, Dinero: 20, Cambio: 7
+Id: 1, Producto: Sprite, Precio: 13, Dinero: 16, Cambio: 3

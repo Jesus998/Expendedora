@@ -1,0 +1,14 @@
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.exe.config
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.exe
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\Expendedora.pdb
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\MetroFramework.Design.dll
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\MetroFramework.dll
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csprojAssemblyReference.cache
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.Maquina.resources
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.Properties.Resources.resources
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csproj.GenerateResource.cache
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.csproj.CopyComplete
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.exe
+C:\Users\EliteBook 8470w\source\repos\Expendedora\Expendedora\obj\Debug\Expendedora.pdb
